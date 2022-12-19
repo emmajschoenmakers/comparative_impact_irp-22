@@ -1,0 +1,12 @@
+name: flood_tool
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.6
+  - pip
+  - flake8
+  - numpy >= 1.13.0
+  - pandas
+  - seaborn
+  - matplotlib

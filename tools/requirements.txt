@@ -1,0 +1,5 @@
+pandas
+numpy >= 1.13.0
+seaborn
+matplotlib
+
