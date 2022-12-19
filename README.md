@@ -13,7 +13,9 @@
 
 
 
-*Supervised by Minerva Singh (CEP, Imperial College London) and Dr. Adriana Paluszny (Imperial College London).* 
+#### By Emma Schoenmakers (Department of Earth Science & Engineering, Imperial College London) & Supervised by Dr. Minerva Singh (CEP, Imperial College London)
+
+*Reviewed by Dr. Adriana Paluszny (Imperial College London) and Dr Minerva Singh (Imperial College London).* 
 
 All the work completed for my Independent Research Project in Environmental Data Science and Machine learning for partial fulfillment of the EDSML Master's degree at Imperial College London. For more information, please contact Emma Schoenmakers at ejs21@ic.ac.uk or emmajschoenmakers@outlook.com.
 
