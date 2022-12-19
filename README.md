@@ -15,7 +15,7 @@
 
 *Supervised by Minerva Singh (CEP, Imperial College London) and Dr. Adriana Paluszny (Imperial College London).* 
 
-All the work completed for my Independent Research Project in Environmental Data Science and Machine learning for partial fulfillment of the EDSML degree at Imperial College London. For more information, please contact Emma Schoenmakers at ejs21@ic.ac.uk or emmajschoenmakers@outlook.com.
+All the work completed for my Independent Research Project in Environmental Data Science and Machine learning for partial fulfillment of the EDSML Master's degree at Imperial College London. For more information, please contact Emma Schoenmakers at ejs21@ic.ac.uk or emmajschoenmakers@outlook.com.
 
 
 
@@ -27,11 +27,11 @@ More than 40% of the world’s urban population lives in coastal habitats and ar
 
 ## Repository Structure
 
-- [Reports](https://github.com/ese-msc-2021/irp-ejs21/tree/main/reports) : including presentation slides, final report and project plan.
-- [Info](https://github.com/ese-msc-2021/irp-ejs21/tree/main/info) : including admin information, IRP title, and supervisors.
-- [Tools](https://github.com/ese-msc-2021/irp-ejs21/tree/main/tools) : including testing and CI files.
-- [Images](https://github.com/ese-msc-2021/irp-ejs21/tree/main/pictures) : including high resolution output images, repo images, images and tables from the irp report, and presentation pictures.
-- [Scripts](https://github.com/ese-msc-2021/irp-ejs21/tree/main/scripts) : including graph scripts, classification and model scripts (Python, JavaScript)
+- [Reports](https://github.com/emmajschoenmakers/comparative_impact_irp-22/tree/main/reports) : including presentation slides, final report and project plan.
+- [Info](https://github.com/emmajschoenmakers/comparative_impact_irp-22/tree/main/info) : including admin information, IRP title, and supervisors.
+- [Tools](https://github.com/emmajschoenmakers/comparative_impact_irp-22/tree/main/tools) : including testing and CI files.
+- [Images](https://github.com/emmajschoenmakers/comparative_impact_irp-22/tree/main/pictures) : including high resolution output images, repo images, images and tables from the irp report, and presentation pictures.
+- [Scripts](https://github.com/emmajschoenmakers/comparative_impact_irp-22/tree/main/scripts) : including graph scripts, classification and model scripts (Python, JavaScript)
 
 ## User Instructions
 
@@ -46,17 +46,6 @@ Next run the commands:
 ``pip install -r requirements.txt``
 
 Follow the prompts given by the terminal
-
-## Admin
-
-**IRP Timetable**
-
-The live Gantt chart and progress update for the IRP can be checked at all time and found [here](https://imperiallondon-my.sharepoint.com/:x:/r/personal/ejs21_ic_ac_uk/_layouts/15/Doc.aspx?sourcedoc=%7BE76FF1B0-F835-4F3E-B37E-D4C6BD359D34%7D&file=Live_Project_Schedule.xlsx&wdOrigin=OFFICECOM-WEB.START.REC&ct=1658312412995&action=default&mobileredirect=true)
-
-- For project information updates, please refer to `README.md` in [`info/`](./info) directory.
-- For details on deliverable submissions, please refer to `README.md` in [`reports/`](./reports) directory.
-
-If you have any questions or experience any difficulties, please do not hesitate to get in touch with Marijan (m.beg@imperial.ac.uk).
 
 
 ## Datasets 
@@ -75,5 +64,3 @@ WorldPop (www.worldpop.org - School of Geography and Environmental Science, Univ
 
 Zanaga, D., Van De Kerchove, R., De Keersmaecker, W., Souverijns, N., Brockmann, C., Quast, R., Wevers, J., Grosu, A., Paccini, A., Vergnaud, S., Cartus, O., Santoro, M., Fritz, S., Georgieva, I., Lesiv, M., Carter, S., Herold, M., Li, Linlin, Tsendbazar, N.E., Ramoino, F., Arino, O., 2021. ESA WorldCover 10 m 2020 v100. https://doi.org/10.5281/zenodo.5571936
 
-
-# comparative_impact_irp-22
