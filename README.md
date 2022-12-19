@@ -2,7 +2,7 @@
 
 
 
-![TC image](https://github.com/ese-msc-2021/irp-ejs21/blob/main/pictures/beira_moz_damage.webp)
+![TC image](https://github.com/emmajschoenmakers/comparative_impact_irp-22/blob/main/pictures/beira_moz_damage.webp)
 
 *Debris and destroyed and damaged buildings in a residential neighbourhood in Beira, Mozambique, after Cyclone Idai hit in March 2019. (Photo: Guillem Sartorio / Bloomberg via Getty Images)*
 
