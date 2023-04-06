@@ -37,8 +37,10 @@ More than 40% of the world’s urban population lives in coastal habitats and ar
 
 ## User Instructions
 
-The majority of the code, apart from those requiring external datasets such the landcover and population impact assessment, can be run in [Google Earth Engine](https://code.earthengine.google.com/) and can be reproducible to any area of interest by changing the area of interest (aoi). This also includes immediate visualisation of storm-related flooding statistics and impact.  
+The majority of the code found in the scripts repository, apart from those requiring external datasets such the landcover and population impact assessment, can be run in [Google Earth Engine] directly (https://code.earthengine.google.com/) and can be reproducible to any area of interest by changing the area of interest (aoi). This also includes immediate [visualisation of storm-related flooding statistics and impact.](https://code.earthengine.google.com/470b24f10515f164d709b77aae9b82ba)
 Note that further data visualisation was produced in Python and QGIS and not available on GEE directly. It is up to the end-user if they wish to do so after exporting the models to Drive for example.
+
+Instructions and comments in the scripts are available in French and English.
 
 For optional Python data visualisation:
 In the terminal, go to the file path containing the ``environment.yml`` file.
